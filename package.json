@@ -1,0 +1,15 @@
+{
+  "name": "botlord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-qiwi-api": "^1.1.1",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
